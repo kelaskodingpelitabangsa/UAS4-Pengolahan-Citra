@@ -1,10 +1,16 @@
-# Segementasi Gambar Citra Digital Dengan Algoritma K-means Clustering
+# PENGOLAHAN CITRA TUGAS UAS
+## Segementasi Gambar Citra Digital Dengan Algoritma K-means Clustering
+Dibuat Oleh:
+* SATRIA WIGUNA
+* LATIF NUR ANHARI
+* M. ZAINAL MUTAQIM
+
 ---
 #### A. K-means Clustering
 ---
 K-means Clustering adalah metode segmentasi gambar yang digunakan untuk mengelompokkan data (piksel-piksel) ke dalam sejumlah bagian (cluster) di mana setiap cluster memiliki pusat (centroid) yang mewakili karakteristik kelompok tersebut berdasarkan kesamaan warna, tekstur atau intensitasnya. Tujuannya adalah untuk menyederhanakan representasi gambar dan mempermudah analisis dengan mengelompokkan piksel yang memiliki karakteristik serupa ke dalam cluster yang sama. 
 
-![ilustrasi](https://github.com/kelaskodingpelitabangsa/UAS4-Pengolahan-Citra/blob/main/ilustrasi.png)
+![ilustrasi](https://github.com/kelaskodingpelitabangsa/UAS4-Pengolahan-Citra/ilustrasi.png)
 
 #### B. Penjelasan Program
 ---
@@ -101,7 +107,7 @@ plt.show()
 * ```plt.show()```: Menampilkan seluruh figur dengan subplot.
 ### C. Hasil Output
 ---
-img 2
+![ilustrasi](/assets/hasil.jng)
 
 ### D. Cara Menjalankan Program
 ---
