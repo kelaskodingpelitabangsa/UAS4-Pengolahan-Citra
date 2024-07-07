@@ -2,7 +2,7 @@
 ## Segementasi Gambar Citra Digital Dengan Algoritma K-means Clustering
 Dibuat Oleh:
 * SATRIA WIGUNA  **312210530**
-* LATIF NUR ANHARI  **312210xxx**
+* LATIF NUR ANHARI  **312210708**
 * M. ZAINAL MUTAQIM  **312210xxx**
 
 ---
