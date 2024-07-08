@@ -3,7 +3,7 @@
 Dibuat Oleh:
 * SATRIA WIGUNA  **312210530**
 * LATIF NUR ANHARI  **312210708**
-* M. ZAINAL MUTAQIM  **312210657**
+* M. ZAINAL MUTAQIM  **312210672**
 
 ---
 #### A. K-means Clustering
